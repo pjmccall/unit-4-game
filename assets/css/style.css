@@ -5,11 +5,14 @@
 h1 {
   background-color: orangered;
   color: white;
+  margin: 20px;
+  text-align: center;
 }
 
 .instructions {
   background-color: lightgoldenrodyellow;
   color: red;
+  margin: 10px;
 }
 
 body {
