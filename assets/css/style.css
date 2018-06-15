@@ -1,0 +1,21 @@
+.tally {
+  background-color: lightblue;
+}
+
+h1 {
+  background-color: orangered;
+  color: white;
+}
+
+.instructions {
+  background-color: lightgoldenrodyellow;
+  color: red;
+}
+
+body {
+  background-image: url("../images/background.png");
+}
+
+#total-points {
+  font-size: 36px;
+}
